@@ -9,14 +9,14 @@ public class Calculator {
 	 * @param j
 	 * @return int
 	 */
-	public int add(int i, int j){
-		return i+j;
+	public int add(int k, int l){
+		return k+l;
 	}
-	public int multiply(int i, int j){
-		return i*j;
+	public int multiply(int k, int l){
+		return k*l;
 	}
 	
-	public int sub(int i, int j){
-		return i-j;
+	public int sub(int k, int l){
+		return k-l;
 	}
 }
